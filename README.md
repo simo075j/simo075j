@@ -1,20 +1,16 @@
 ### Hi there, I'm Simon.
+I enjoy looping over new interesting topics, especially within the field of data science.
 
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+new_knowledge = []
+For topic in data_science:
+  new_knowledge.append(contents[topic])
+  
 ### 📫 How to reach me:   
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/simon-stausholm-rasmussen-494928155/)
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/simon.stausholmrasmussen)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/simonsr95/)
 <a href="mailto:simonsr1209@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-  
-<br />
 
 ### Languages and Tools:
 
