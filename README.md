@@ -1,4 +1,4 @@
-### Hi there, I'm Simon.
+### Hi there, I'm Simon. 👋
 I enjoy looping over new interesting topics, especially within the field of data science.
 
 ```
@@ -6,6 +6,7 @@ new_knowledge = []
 for topic in data_science:
   new_knowledge.append(contents[topic])
 ```  
+I have a long way to go within this facscinating world of data science, and my long-lasting interest will keep me on track.
 
 ### 📫 How to reach me:   
 
