@@ -1,8 +1,10 @@
 ### Hi there, I'm Simon.
 I enjoy looping over new interesting topics, especially within the field of data science.
 
-new_knowledge = []
+new_knowledge = [ ]
+
 For topic in data_science:
+
   new_knowledge.append(contents[topic])
   
 ### 📫 How to reach me:   
