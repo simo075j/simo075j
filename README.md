@@ -3,7 +3,7 @@ I enjoy looping over new interesting topics, especially within the field of data
 
 ```
 new_knowledge = []
-For topic in data_science:
+for topic in data_science:
   new_knowledge.append(contents[topic])
 ```  
 
