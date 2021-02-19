@@ -1,4 +1,4 @@
-### Hi there, I'm Simon. 👋
+### Hi there. 👋
 I enjoy looping over new interesting topics, especially within the field of data science.
 
 ```
