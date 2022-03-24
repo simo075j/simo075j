@@ -1,11 +1,5 @@
 ### Hi there. 👋
-I enjoy looping over new interesting topics, especially within the field of data science.
 
-```
-new_knowledge = []
-for topic in data_science:
-  new_knowledge.append(contents[topic])
-```  
 
 ### 📫 How to reach me:   
 
