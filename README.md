@@ -1,5 +1,8 @@
 ### Hi there. 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo075j)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 📫 How to reach me:   
 
