@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo075j)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo075j&exclude_repo=Vestas-Thesis,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo075j&exclude_repo=NN_and_Deep-learning.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me:   
 
